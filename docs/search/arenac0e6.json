@@ -1,0 +1,16 @@
+{
+ "author": "MySelf",
+ "status": true,
+ "result": {
+  "spek": "Oppo A3s",
+  "type": "156.2 x 75.6 x 8.2 mm (6.15 x 2.98 x 0.32 in)",
+  "size": "168 g (5.93 oz)",
+  "resolusi": "Glass front (Gorilla Glass 3), plastic back, plastic frame",
+  "chipset": "6.2 inches, 95.9 cm2 (~81.2% screen-to-body ratio)",
+  "os": "IPS LCD",
+  "cpu": "720 x 1520 pixels, 19:9 ratio (~271 ppi density)",
+  "internal": "Qualcomm SDM450 Snapdragon 450 (14 nm)",
+  "camera": "microSDXC (dedicated slot)",
+  "batterai": "Accelerometer, gyro, proximity, compass"
+ }
+}
