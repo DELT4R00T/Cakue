@@ -31,10 +31,26 @@
 			<h1>Welcome To Myself</h1>
 			<h2>Silahkan lanjut ke halaman selanjutnya</h2>
 			<div class="buttons">
-			<a href="https://bit.ly/YtKYZ"><button>My website</button></a>
+			<a href="https://bit.ly/YtKYZ"><button type="button" id="btn">My website</button></a>
 			<a href="https://ikymyselff.herokuapp.com"><button>Try again</button></a>
 		</div>
 		</div>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.10.4/dist/sweetalert2.all.min.js"></script>
+
+<script>
+     const btn=document.getElementById('btn');
+
+btn.addEventListener('click', function(){
+
+Swal.fire({
+
+    title: 'Selamat Datang', 
+    text : 'Anda Berhasil Login',
+    icon :'success' 
+})
+});
+</script
 </body>
 
 <!-- Mirrored from myselfff.herokuapp.com/ by HTTrack Website Copier/3.x [XR&CO'2017], Tue, 05 Jul 2022 09:24:01 GMT -->
